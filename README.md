@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiikaPollari
-- 🎓 I'm studying information technology in LAB university of applied sciences 
-- 🏢 I have a dream that one day I have my own tech company! 
+- 🎓 I'm studying information technology in LAB University of Applied Sciences 
+- 🏢 I have a dream that one day I'll have my own tech company! 
 - 📱 My next goal is to be a iOS developer
 
 <!---
